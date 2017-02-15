@@ -1,0 +1,17 @@
+p{
+	text-align:justify;
+}
+
+#perfil{
+	width:200px;
+	border-radius: 50%;
+	transform: rotate(90deg);
+
+}
+#galeria{
+	height:300px;
+	width:500px;
+	
+	border-radius: 10%;
+
+}
