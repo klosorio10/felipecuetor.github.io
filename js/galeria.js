@@ -8,7 +8,7 @@ function cambioFoto(entrada) {
 
 function fotoMenosUno(entrada) {
 	foto = foto-1;
-		if(foto<0)
+		if(foto<1)
 	{
 		foto = 3;
 	}

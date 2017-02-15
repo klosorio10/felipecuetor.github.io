@@ -91,6 +91,10 @@
     line-height: 60px;
 }
 
+.sidebar-nav > .sidebar-brand p {
+    color: #999999;
+}
+
 .sidebar-nav > .sidebar-brand a {
     color: #999999;
 }
