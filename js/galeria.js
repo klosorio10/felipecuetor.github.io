@@ -2,7 +2,7 @@ var foto = 1;
 
 function cambioFoto(entrada) {
 	foto = entrada;
-	document.getElementById("galeria").setAttribute("src",foto+".jpg");
+	document.getElementById("galeria").setAttribute("src",foto+".JPG");
 	
 }
 
@@ -14,7 +14,7 @@ function fotoMenosUno(entrada) {
 	}
 
 	
-	document.getElementById("galeria").setAttribute("src",foto+".jpg");
+	document.getElementById("galeria").setAttribute("src",foto+".JPG");
 	
 }
 
@@ -25,6 +25,6 @@ function fotoMasUno(entrada) {
 		foto = 1;
 	}
 
-	document.getElementById("galeria").setAttribute("src",foto+".jpg");
+	document.getElementById("galeria").setAttribute("src",foto+".JPG");
 	
 }
